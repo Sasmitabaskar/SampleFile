@@ -1,1 +1,2 @@
 # SampleFile
+SAMPLE FILE
